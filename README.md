@@ -37,6 +37,6 @@ A smart, offline Python-based command-line utility that evaluates password stren
 ### 📥 Clone & Run
 
 ```bash
-git clone https://github.com/ritik2898/Password_Strength_Analysis_Tool.git
+git clone https://github.com/dishantkb981/Password_Strength_Analysis_Tool-d.git
 cd Password_Strength_Analysis_Tool
 python Password_tool_.py
